@@ -1,18 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8f9de7&height=80)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=5&color=8f9de7&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=80&lines=🙌+HELLO!+I'm+Jeon+A+Ryeon)](https://git.io/typing-svg)
+![portfolio](https://github.com/user-attachments/assets/742bab7a-044b-4a55-83bc-61826e2d6dd1)
+
+
 ## 🙋‍♀️ 경험과 성장을 좋아하는 프론트엔드 개발자입니다.   
 약 4년 2개월간 퍼블리셔로 일하던 중, 프론트엔드라는 직무에 관심이 생겨 react, vue, typescript 등을 공부하며 프론트엔드로 성장해 가는 과정 속에 있습니다.   
-  
-  
- 
-#### 제 포트폴리오를 소개합니다. 👉 <a href="http://alotus.co.kr/">http://alotus.co.kr/</a> 👈  
-
   
 ✅ 유지보수가 편리한 코드를 작성하기 위해 노력합니다.  
 ✅ 대시보드 제작 경험을 바탕으로 다양한 상황에 유연한 대응이 가능합니다.  
 ✅ 홈페이지 운영 PM 경험이 있어 커뮤니케이션에 익숙합니다.  
-✅ 웹접근성 취득 및 갱신을 위한 작업 경험이 있습니다.  
-✅ github, gitlab을 활용한 협업 경험이 있습니다. 
+✅ git을 활용한 협업 경험이 있습니다.  
+✅ Next.JS, React, Vue를 활용한 프로젝트 경험이 있습니다. 
 
   
   
